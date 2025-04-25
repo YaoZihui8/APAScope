@@ -8,7 +8,6 @@ APAScope is a bioinformatics workflow designed and optimized for the quantitativ
 ### **Module 1: High-Quality Poly(A) Site Identification**
 - Users can customize filtering criteria based on the specific characteristics of their data.
 - Multiple filtering steps ensure the accuracy and reliability of identified poly(A) sites.
-- High-quality poly(A) sites are validated through comparison with authoritative databases such as PolyASite and PolyA DBv3.
 - The output includes high-quality poly(A) site data annotated with the number of supporting RNA-seq reads as an indicator of site usage intensity.
 
 ### **Module 2: APA Reference Library Construction**
