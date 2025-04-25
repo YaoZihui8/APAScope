@@ -3,7 +3,7 @@
 APAScope is a bioinformatics workflow designed and optimized for the quantitative analysis of alternative polyadenylation (APA) events based on bulk RNA-Seq data. The workflow employs a modular design, making it highly extensible and adaptable to more complex analytical requirements.
 
 ## Workflow Overview
-
+![GitHub图像](/[images/your-image.png](https://github.com/YaoZihui8/APAScope/blob/main/PIPLINE-300dpi.png))
 
 ### **Module 1: High-Quality Poly(A) Site Identification**
 - Users can customize filtering criteria based on the specific characteristics of their data.
